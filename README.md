@@ -1,12 +1,7 @@
-<div style="text-align: center;">
 
-Hi there 👋 This is Vivek Patel
-
-</div>
-
+### Hi there 👋 This is Vivek Patel
 ________________________________________________________________
 
-<center>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelvivek7879/)
 &nbsp;
@@ -14,10 +9,9 @@ ________________________________________________________________
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail)](mailto:patelvivek7879@gmail.com)
 
-</cetner>
+</center>
 
-### Live Project 
+### Project(s) 
 
-- While learning CSS flexbox created a responsive webpage 
+- While learning CSS flexbox created a responsive webpage [![Static Badge](https://img.shields.io/badge/Live-blue)](https://patelvivek7879.github.io/trillo-flex-box/)
 
-[![Static Badge](https://img.shields.io/badge/Live-blue)](https://patelvivek7879.github.io/trillo-flex-box/)
