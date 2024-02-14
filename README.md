@@ -1,9 +1,10 @@
+<div style="text-align: center;">
 
-<center>
- Hi there 👋 This is Vivek Patel
-</center>
+Hi there 👋 This is Vivek Patel
 
-----------------------------------------------------------------
+</div>
+
+________________________________________________________________
 
 <center>
 
