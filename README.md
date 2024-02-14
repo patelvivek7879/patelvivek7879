@@ -19,4 +19,5 @@ ________________________________________________________________
 ### Live Project 
 
 -- While learning CSS flexbox created a responsive webpage 
--- [live](https://patelvivek7879.github.io/trillo-flex-box/)
+
+[![Static Badge](https://img.shields.io/badge/Live-blue)](https://patelvivek7879.github.io/trillo-flex-box/)
