@@ -1,6 +1,5 @@
-<div style="display:flex;justify-items:center;">
 ### Hi there 👋 This is Vivek Patel
-</div>
+
 ________________________________________________________________
 
 
