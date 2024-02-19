@@ -1,5 +1,6 @@
-### Hi there 👋 This is Vivek Patel
-
+<p align="center">
+<h4> Hi there 👋 This is Vivek Patel </h4>
+</p>
 ________________________________________________________________
 
 
