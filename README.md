@@ -1,7 +1,7 @@
 <br /><br />
 <p align="center">
 
-  <h4> Hi there 👋 This is Vivek Patel </h4>
+  <strong> Hi there 👋 This is Vivek Patel </strong>
 
 </p>
 
