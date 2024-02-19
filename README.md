@@ -1,6 +1,8 @@
 <br /><br />
 <p align="center">
-  Hi there 👋 This is Vivek Patel
+  <b>
+    Hi there 👋 This is Vivek Patel
+  </b>
 </p>
 
 ________________________________________________________________
