@@ -17,7 +17,9 @@
 
 </div>
 
-[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelvivek7879)](https://github.com/patelvivek7879/github-readme-stats)
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelvivek7879)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelvivek7879)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 <div style="display:flex;">
