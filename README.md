@@ -17,6 +17,8 @@
 
 </div>
 
+[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelvivek7879)](https://github.com/patelvivek7879/github-readme-stats)
+
 ### Skills
 <div style="display:flex;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="48" height="48"> &nbsp;&nbsp;
